@@ -11,8 +11,8 @@
     width: 91%;
     height: 91%;
     margin: 10px;
-    border: 1px solid black;
-    box-shadow: 1px 1px 1px 1px black;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px 1px aqua;
 }
 #ed
 {
